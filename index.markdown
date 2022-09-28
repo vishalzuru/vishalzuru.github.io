@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This is new blog for ...
+This is new blog for testing.
