@@ -27,7 +27,7 @@ twitter_username: imvishalvyas
 github_username:  imvishalvyas
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
